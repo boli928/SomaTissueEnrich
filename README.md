@@ -6,8 +6,6 @@
 
 You can install the development version from GitHub:
 
-
-### install.packages("devtools")
 ```r
 install.packages("devtools")
 devtools::install_github("boli928/SomaEnrich")
